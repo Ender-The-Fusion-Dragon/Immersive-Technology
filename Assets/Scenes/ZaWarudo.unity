@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 1863969252}
   - component: {fileID: 1863969251}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Ocean
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
