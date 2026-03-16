@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Anchor
   - Key
+  - craddleBall
   layers:
   - Default
   - TransparentFX
